@@ -1,0 +1,309 @@
+2026-04-22T03:43:31.708Z [ERROR]: [BACKUP] Gagal kirim sellvpn.db ke 7768199065: request to https://api.telegram.org/bot8496515506:[REDACTED]/sendDocument failed, reason: read ETIMEDOUT
+2026-04-23T00:21:38.512Z [ERROR]: Transaksi gagal user 1734416542 (renew): ❌ respons error:
+client setet not exists, try another name
+2026-04-23T00:22:06.737Z [ERROR]: Transaksi gagal user 1734416542 (renew): ❌ respons error:
+client setet not exists, try another name
+2026-04-23T00:22:51.644Z [ERROR]: Transaksi gagal user 1734416542 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-04-23T01:47:46.968Z [ERROR]: Error editing message: 400: Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-04-23T10:24:08.842Z [ERROR]: Error checking payment status for user-7612399455-1776939640829: timeout of 5000ms exceeded
+2026-04-23T10:24:18.839Z [ERROR]: Error checking payment status for user-7612399455-1776939640829: timeout of 5000ms exceeded
+2026-04-23T23:02:18.225Z [ERROR]: Transaksi gagal user 6380781342 (renew): ❌ respons error:
+client andai not exists, try another name
+2026-04-24T10:09:45.038Z [ERROR]: Error checking payment status for user-7612399455-1777025312076: timeout of 5000ms exceeded
+2026-04-24T10:24:33.802Z [ERROR]: Transaksi gagal user 7612399455 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-04-24T22:34:16.836Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-04-25T07:14:42.895Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-04-27T14:14:31.739Z [ERROR]: Transaksi gagal user 5320480935 (create): ❌  respons error:
+request timeout ke server panel.
+2026-04-27T14:15:35.834Z [ERROR]: Transaksi gagal user 5320480935 (create): ❌  respons error:
+request timeout ke server panel.
+2026-04-27T14:16:11.725Z [ERROR]: Transaksi gagal user 5320480935 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-04-27T19:23:59.861Z [ERROR]: Transaksi gagal user 6380781342 (renew): ❌ respons error:
+client kelo not exists, try another name
+2026-04-28T06:07:39.649Z [ERROR]: Transaksi gagal user 6717605132 (create): ❌  response server tidak valid
+2026-04-28T06:09:14.781Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2026-04-28T06:09:17.421Z [ERROR]: Transaksi gagal user 6717605132 (create): ❌  response server tidak valid
+2026-04-28T10:27:13.603Z [ERROR]: Transaksi gagal user 8629869896 (create): ❌  response server tidak valid
+2026-04-28T10:30:14.968Z [ERROR]: Transaksi gagal user 8629869896 (create): ❌  response server tidak valid
+2026-04-28T10:33:45.194Z [ERROR]: Transaksi gagal user 8629869896 (create): ❌  response server tidak valid
+2026-04-28T10:36:43.065Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2026-04-28T11:21:52.667Z [ERROR]: Transaksi gagal user 7768199065 (create): ❌  response server tidak valid
+2026-04-28T12:59:59.948Z [ERROR]: Transaksi gagal user 8629869896 (renew): ❌ format respon dari server tidak valid.
+2026-04-28T13:07:28.596Z [ERROR]: Transaksi gagal user 8246744834 (create): ❌  format respon dari server tidak valid.
+2026-04-28T13:07:56.079Z [ERROR]: Transaksi gagal user 8246744834 (create): ❌  format respon dari server tidak valid.
+2026-04-28T13:08:12.689Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  format respon dari server tidak valid.
+2026-04-28T13:09:10.825Z [ERROR]: Transaksi gagal user 8246744834 (renew): ❌ respons error:
+client anunya not exists, try another name
+2026-04-28T13:09:57.427Z [ERROR]: Transaksi gagal user 8246744834 (renew): ❌ respons error:
+client anunyaanu not exists, try another name
+2026-04-28T13:10:17.834Z [ERROR]: Transaksi gagal user 8246744834 (renew): ❌ respons error:
+client anunyaanu not exists, try another name
+2026-04-29T00:02:38.572Z [ERROR]: Transaksi gagal user 1377629179 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-04-29T06:02:20.220Z [ERROR]: Error saat memulai bot: 409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-04-29T11:58:31.222Z [ERROR]: Transaksi gagal user 8246744834 (renew): ❌ respons error:
+client fishhy not exists, try another name
+2026-04-29T13:13:47.144Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2026-04-29T13:42:59.844Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2026-04-29T14:49:55.264Z [ERROR]: Transaksi gagal user 7381102145 (renew): ❌ gagal menghubungi server panel.
+2026-04-29T14:50:44.252Z [ERROR]: Transaksi gagal user 7381102145 (renew): ❌ gagal menghubungi server panel.
+2026-04-29T14:51:28.343Z [ERROR]: Transaksi gagal user 7381102145 (renew): ❌ gagal menghubungi server panel.
+2026-04-30T11:25:57.719Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2026-04-30T15:48:45.210Z [ERROR]: Transaksi gagal user 7381102145 (renew): ❌ gagal menghubungi server panel.
+2026-04-30T15:51:39.634Z [ERROR]: Transaksi gagal user 7381102145 (create): ❌  response server tidak valid
+2026-04-30T16:00:29.975Z [ERROR]: Transaksi gagal user 7381102145 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-04-30T16:00:49.279Z [ERROR]: Transaksi gagal user 7381102145 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-04-30T19:13:01.402Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  response server tidak valid
+2026-04-30T19:14:54.569Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  response server tidak valid
+2026-04-30T19:15:18.891Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  response server tidak valid
+2026-04-30T22:21:21.594Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-04-30T22:26:05.458Z [ERROR]: Transaksi gagal user 6294105375 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-04-30T22:26:25.365Z [ERROR]: Transaksi gagal user 6294105375 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-04-30T22:26:48.720Z [ERROR]: Transaksi gagal user 6294105375 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-01T12:16:38.982Z [ERROR]: Error saat memulai bot: Promise timed out after 90000 milliseconds
+2026-05-02T05:29:46.553Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-05-02T05:35:25.381Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-05-02T07:47:19.440Z [ERROR]: Error checking payment status for user-7089793571-1777708026330: timeout of 5000ms exceeded
+2026-05-02T12:32:57.847Z [ERROR]: Transaksi gagal user 6741034021 (create): ❌  response server tidak valid
+2026-05-02T12:56:21.032Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+status unauthorization!, please check your [key]
+2026-05-02T12:58:08.403Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+status unauthorization!, please check your [key]
+2026-05-02T12:59:26.356Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+status unauthorization!, please check your [key]
+2026-05-02T13:33:59.051Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-03T17:24:47.639Z [ERROR]: Transaksi gagal user 8035547823 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-03T17:25:17.192Z [ERROR]: Transaksi gagal user 8035547823 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-03T17:25:39.834Z [ERROR]: Transaksi gagal user 8035547823 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-04T12:58:46.835Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-04T15:20:07.510Z [ERROR]: Transaksi gagal user 7768199065 (create): ❌  format respon dari server tidak valid.
+2026-05-04T23:21:49.321Z [ERROR]: Transaksi gagal user 1734416542 (renew): ❌ respons error:
+client ygghh not exists, try another name
+2026-05-04T23:48:42.744Z [ERROR]: Error saat memulai bot:
+2026-05-05T09:46:31.056Z [ERROR]: Transaksi gagal user 6717605132 (renew): ❌ respons error:
+client serli not exists, try another name
+2026-05-05T09:46:52.720Z [ERROR]: Transaksi gagal user 6717605132 (renew): ❌ respons error:
+client serli not exists, try another name
+2026-05-05T09:47:16.397Z [ERROR]: Transaksi gagal user 6717605132 (renew): ❌ respons error:
+client serli not exists, try another name
+2026-05-05T09:48:49.582Z [ERROR]: Transaksi gagal user 6717605132 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-05T09:49:12.303Z [ERROR]: Transaksi gagal user 6717605132 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-05T13:30:55.207Z [ERROR]: ❌ Kesalahan saat memulai tambah ZIVPN reseller: 400: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 145
+2026-05-05T13:30:59.641Z [ERROR]: ❌ Kesalahan saat memulai tambah ZIVPN member: 400: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 143
+2026-05-06T12:27:37.381Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-06T12:41:22.020Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-06T23:24:47.282Z [ERROR]: Transaksi gagal user 1734416542 (renew): ❌ respons error:
+client eddk not exists, try another name
+2026-05-07T08:39:24.962Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-08T02:27:16.634Z [ERROR]: Transaksi gagal user 1734416542 (renew): ❌ format respon dari server tidak valid.
+2026-05-08T02:27:34.181Z [ERROR]: Transaksi gagal user 7596611339 (create): ❌  respons error:
+koneksi ke server panel gagal (econnrefused).
+2026-05-08T02:27:53.179Z [ERROR]: Transaksi gagal user 1734416542 (create): ❌  format respon dari server tidak valid.
+2026-05-08T12:45:55.083Z [ERROR]: Transaksi gagal user 7768199065 (create): ❌  format respon dari server tidak valid.
+2026-05-09T09:02:34.895Z [ERROR]: Transaksi gagal user 7309962231 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-09T15:12:24.040Z [ERROR]: Transaksi gagal user 7612399455 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:18:39.364Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:18:56.255Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:19:18.308Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:20:49.891Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:21:09.251Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:21:28.311Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:21:54.342Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T00:22:12.015Z [ERROR]: Transaksi gagal user 6151503774 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T13:36:48.844Z [ERROR]: Transaksi gagal user 1102316095 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-10T15:49:58.602Z [ERROR]: Transaksi gagal user 7960158114 (renew): ❌ respons error:
+client 30mar not exists, try another name
+2026-05-11T00:40:14.296Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-11T00:40:36.526Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-11T00:41:03.570Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-11T00:41:31.424Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-11T01:31:05.146Z [ERROR]: Transaksi gagal user 8169707317 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-12T04:50:40.933Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-05-12T12:56:26.868Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-13T17:12:42.237Z [ERROR]: Transaksi gagal user 7612399455 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-14T04:23:52.939Z [ERROR]: Error checking payment status for user-7768199065-1778732432219: Request failed with status code 526
+2026-05-14T13:51:12.453Z [ERROR]: Transaksi gagal user 8138423961 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T00:54:50.907Z [ERROR]: Transaksi gagal user 490797659 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T00:55:41.019Z [ERROR]: Transaksi gagal user 490797659 (renew): ❌ respons error:
+client inara1 not exists, try another name
+2026-05-15T00:56:16.101Z [ERROR]: Transaksi gagal user 490797659 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T04:30:37.918Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T11:27:01.005Z [ERROR]: Error checking payment status for user-6982541967-1778844407873: timeout of 5000ms exceeded
+2026-05-15T11:27:06.138Z [ERROR]: Error checking payment status for user-6982541967-1778844407873: Request failed with status code 526
+2026-05-15T11:30:46.056Z [ERROR]: Error checking payment status for user-6982541967-1778844407873: Request failed with status code 526
+2026-05-15T23:44:35.464Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T23:44:59.013Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T23:45:20.016Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T23:45:42.994Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T23:46:10.184Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T23:46:33.597Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-15T23:46:56.116Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-16T04:25:32.605Z [ERROR]: Error checking payment status for user-7509946460-1778905392579: timeout of 5000ms exceeded
+2026-05-16T13:10:34.810Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-17T09:25:42.973Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-17T10:36:29.832Z [ERROR]: Transaksi gagal user 8138423961 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-17T11:35:39.443Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-05-17T14:26:04.735Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-05-17T14:30:33.034Z [ERROR]: Gagal deleteMessage di topup_saldo: 400: Bad Request: message can't be deleted for everyone
+2026-05-17T15:33:17.570Z [ERROR]: Transaksi gagal user 8029465743 (create): ❌  gagal membuat akun zivpn:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-18T06:46:40.963Z [ERROR]: Error saat memulai bot:
+2026-05-18T06:51:10.837Z [ERROR]: Transaksi gagal user 7066604516 (create): ❌  response server tidak valid
+2026-05-18T20:20:52.445Z [ERROR]: Transaksi gagal user 7066604516 (renew): ❌ gagal menghubungi server panel.
+2026-05-19T07:01:21.928Z [ERROR]: Transaksi gagal user 795127040 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-19T07:01:45.408Z [ERROR]: Transaksi gagal user 795127040 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-19T07:02:06.339Z [ERROR]: Transaksi gagal user 795127040 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-19T07:02:23.720Z [ERROR]: Transaksi gagal user 795127040 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-19T07:02:39.504Z [ERROR]: Transaksi gagal user 795127040 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-19T23:33:54.760Z [ERROR]: Transaksi gagal user 5255363390 (renew): ❌ respons error:
+client ultimatecobra not exists, try another name
+2026-05-19T23:34:53.683Z [ERROR]: Transaksi gagal user 5255363390 (renew): ❌ respons error:
+client ultimatecobra not exists, try another name
+2026-05-20T00:18:33.100Z [ERROR]: Transaksi gagal user 5255363390 (renew): ❌ respons error:
+client ultimatecobra not exists, try another name
+2026-05-20T12:48:50.629Z [ERROR]: Error checking payment status for user-8138423961-1779281318775: timeout of 5000ms exceeded
+2026-05-22T03:26:10.328Z [ERROR]: Transaksi gagal user 1377629179 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-23T00:58:36.471Z [ERROR]: Transaksi gagal user 6380781342 (renew): ❌ respons error:
+client yuyu not exists, try another name
+2026-05-23T03:21:48.130Z [ERROR]: Transaksi gagal user 6741034021 (create): ❌  response server tidak valid
+2026-05-23T05:27:10.647Z [ERROR]: Transaksi gagal user 5448438414 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-23T13:11:14.931Z [ERROR]: Transaksi gagal user 7309962231 (create): ❌  response server tidak valid
+2026-05-23T13:15:08.538Z [ERROR]: Transaksi gagal user 7309962231 (create): ❌  response server tidak valid
+2026-05-23T18:17:26.902Z [ERROR]: Transaksi gagal user 5320480935 (create): ❌  username akun sudah di gunakan
+masukan username baru!
+2026-05-24T19:07:37.090Z [ERROR]: Transaksi gagal user 1206617986 (renew): ❌ respons error:
+client orion12 not exists, try another name
+2026-05-24T19:41:07.747Z [ERROR]: Transaksi gagal user 7617239589 (create): ❌  response server tidak valid
+2026-05-24T20:02:17.004Z [ERROR]: Transaksi gagal user 7617239589 (create): ❌  response server tidak valid
+2026-05-25T00:20:45.823Z [ERROR]: Transaksi gagal user 328922489 (renew): ❌ respons error:
+client adyp123 not exists, try another name
+2026-05-25T00:21:58.149Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-25T00:22:22.598Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-25T00:22:43.351Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-25T00:23:04.846Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-25T00:23:21.486Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-25T00:23:42.174Z [ERROR]: Transaksi gagal user 328922489 (create): ❌  respons error:
+username akun sudah di gunakan
+masukan username baru!
+2026-05-25T00:35:25.453Z [ERROR]: Error saat memulai bot:
+2026-05-25T07:55:21.980Z [ERROR]: Transaksi gagal user 5448438414 (create): ❌  format respon dari server tidak valid.
+2026-05-25T07:59:02.392Z [ERROR]: Transaksi gagal user 5448438414 (create): ❌  format respon dari server tidak valid.
+2026-05-25T11:13:05.777Z [ERROR]: Transaksi gagal user 7960158114 (create): ❌  format respon dari server tidak valid.
+2026-05-25T11:22:29.369Z [ERROR]: Transaksi gagal user 7404167575 (renew): ❌ format respon dari server tidak valid.
+2026-05-25T12:16:18.669Z [ERROR]: Transaksi gagal user 7404167575 (create): ❌  format respon dari server tidak valid.
+2026-05-25T12:19:07.801Z [ERROR]: Transaksi gagal user 7404167575 (create): ❌  format respon dari server tidak valid.
+2026-05-26T05:08:18.555Z [ERROR]: Transaksi gagal user 810564575 (create): ❌  response server tidak valid
+2026-05-26T05:09:24.553Z [ERROR]: Error saat memulai bot:
+2026-05-26T05:12:47.216Z [ERROR]: Transaksi gagal user 810564575 (create): ❌  response server tidak valid
