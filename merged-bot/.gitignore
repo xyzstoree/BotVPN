@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Konfigurasi rahasia
+.env
+vpn/.vars.json
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+ppob/*.db*
+vpn/*.db
+vpn/ressel.db
+vpn/trial.db
+vpn/database.db
+
+# Logs
+*.log
+logs/
+ppob/*.log
+vpn/*.log
+
+# Backups
+*.bak
+*.backup
+backup/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Session
+session_db.json
+ppob/session_db.json
